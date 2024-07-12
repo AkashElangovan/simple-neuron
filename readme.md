@@ -27,7 +27,8 @@ These inputs are weighted and passed through a sigmoid activation function to pr
 - Great starting point before diving into more complex neural network architectures
 
 ## Model Visualization
-![Single Neuron Model Diagram](single_neuron_model_diagram.svg)
+
+![Mediamodifier-Design-Template](https://github.com/user-attachments/assets/6eab836a-631b-4636-b235-346366d7aa5f)
 
 ## Requirements
 - Python 3.x
