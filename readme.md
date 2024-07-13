@@ -28,7 +28,7 @@ These inputs are weighted and passed through a sigmoid activation function to pr
 
 ## Model Visualization
 
-![Mediamodifier-Design-Template](https://github.com/user-attachments/assets/6eab836a-631b-4636-b235-346366d7aa5f)
+![Mediamodifier-Design-Template](https://github.com/user-attachments/assets/e36f2374-9e0b-4fc3-b24c-ff5e55f6bf07)
 
 ## Requirements
 - Python 3.x
